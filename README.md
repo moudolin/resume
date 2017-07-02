@@ -5,14 +5,7 @@
 工作地点：南京
 
 ## 个人信息
-* 姓名：
-* 专业：
-* 学历：
-* 毕业院校：
-* 个人主页：
-* 网页简历：[https://github.com/summerscar/resume/blob/master/README.md](https://github.com/summerscar/resume/blob/master/README.md)
-* 联系方式:
-* 邮箱:	
+
 
 ## 技能
 1. HTML & CSS
