@@ -5,14 +5,14 @@
 工作地点：南京
 
 ## 个人信息
-* 姓名：沈煜/男
-* 专业：物联网工程
-* 学历：本科（大三）
-* 毕业院校：金陵科技学院
-* 个人主页：[http://summerscar.com/](http://summerscar.com/)
+* 姓名：
+* 专业：
+* 学历：
+* 毕业院校：
+* 个人主页：
 * 网页简历：[https://github.com/summerscar/resume/blob/master/README.md](https://github.com/summerscar/resume/blob/master/README.md)
-* 联系方式:	13160035003
-* 邮箱:	shen.yus@163.com
+* 联系方式:
+* 邮箱:	
 
 ## 技能
 1. HTML & CSS
@@ -48,33 +48,14 @@
     * [Canvas实现绘图板的效果](http://summerscar.com/canvasDraw/draw.html)
     * [JS自定义H5播放器控件](http://summerscar.com/player/video.html)
     * [表格的排序](http://summerscar.com/tableSort/tablesort.html)
-    * [对教务系统数据的获取以及课程表，成绩的显示](http://summerscar.com/#/demos/demo6)
     
-## 其他技能
-1. [AE/AfterEffects](http://summerscar.com/#/otherDemos)
-    * 能够熟练使用AfterEffects制作GIF动画以及视频短片
 
-2. PR/Premiere
-    * 能够熟练使用Premiere对视频进行剪辑处理
-
-3. PS/Photoshop
-    * 熟悉PS的常用功能及基本操作
-
-4. 日语	
-    * 具备日语二级的能力
 
 ## 个人评价
-* 自学能力强，喜欢安静做事
 * 喜欢追逐前沿技术，对前端开发**充满热情**
-* 有足够毅力，耐心，曾完成过江宁半程马拉松
-* 今年开学以来系统学习前端知识，还存在很多不足，缺乏**大项目开发经验**
+* 存在很多不足，缺乏**大项目开发经验**
 * 希望在以后的实习中学习更多知识，积累更多经验
  
-## 在校荣誉及经历
-  * 大一，大二学年学院三等奖奖学金
-  * Cisco思科CCNA网络工程师证书
-  * JLPT日本语能力测试二级证书
-  * 英语四级，全国计算机C语言二级证书
   
 ## 感谢
 　　非常感谢您能够看到这里，期待您能给予我一次**难忘的实习经历**。
